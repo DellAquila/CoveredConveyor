@@ -1,0 +1,12 @@
+*/Binaries/*
+*/Resources/*
+*/!Config/*
+*/!Content/*
+*/Intermediate/*
+*/Metadata/*
+*/Saved/*
+*/!Source/*
+*/!*.uplugin
+SymlinkLaptop.ps1
+.vs/
+[Bb]bin/
